@@ -1,0 +1,30 @@
+.container-fluid{
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.row{
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.topbar{
+    left: 0;
+    line-height: 50px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #4cf55a 0%, #3bc53b 100%) repeat scroll 0 0;
+}
+.name_site{
+    color: aliceblue;
+    font-size: 25px;
+ 
+}
+.col-lg-1{
+    padding-right: 0px;
+}
+  
